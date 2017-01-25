@@ -1,21 +1,28 @@
 .linkbar {
+
 	width: 270px;
-	position: fixed;
+	position: relative;
 	background-color: #ffffff;
 	text-align: center;
-	right: 20px;
-	margin-top: 20px;
-
+	left: 550px;
+	margin-bottom: 20px;
 }
+	
 
 .wrapper {
 
+	background-color: #ffffff;
+	background-color: #dddddd;
+	width: 960px;
+	margin: 0 auto 0 auto;
 }
 
 .name {
 	background-color: #4aaaa5;
 	width: 10%;
-	padding: 40px;
+	padding: 60px;
 	margin-left: 80px;
+	height: 60px;
 }
 
+.header {}
